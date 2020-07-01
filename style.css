@@ -1,0 +1,125 @@
+body{
+
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+    margin: 0px;
+    font-size: 25px;
+    
+}
+h1{
+    font-family: 'Lalezar', cursive;
+    font-family: 'Patua One', cursive;
+ color: rgb(247, 8, 127);
+ font-weight: 400px;
+}
+.introduction{
+     width: 40%;
+    float: left;
+    margin-left: 40px;
+    margin-top: 90px;
+    padding-left: 6%;
+    padding-top: 100px;
+  
+
+}
+.introduction img{
+    width: 100%;
+}
+.background{
+    background-image: url("images/header-bg.png");
+   
+    background-repeat: no-repeat;
+}
+section{
+    height: 950px;
+    padding-top: 20px;
+
+}
+.hire-button{
+    text-decoration: none;
+    padding: 5px 20px;
+    color: white;
+    background-image: linear-gradient(50deg,rgb(247, 8, 127), rgb(190, 13, 96));
+    border-radius: 7px;
+    font-weight: 700;
+}
+.biography{
+
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+  
+}
+
+.bio-button{
+    text-decoration: none;
+    padding: 5px 20px;
+    color: white;
+    background-image: linear-gradient(50deg,rgb(247, 8, 127), rgb(190, 13, 96));
+    border-radius: 7px;
+    font-weight: 700;
+}
+
+.update-work{
+
+    float: left;
+    width: 20%;
+}
+.latest-work-center{
+    text-align: center;
+}
+.latest-work{
+    background-image: url("images/latest-work-bg.png");
+    background-repeat: no-repeat;
+}
+#about-client{
+    text-align: center;
+}
+.ending{
+    text-align: center;
+    padding-top: 200px;
+}
+
+.button{
+
+    text-align: center;
+  
+    color: white;
+    background-image: linear-gradient(50deg,rgb(247, 8, 127), rgb(190, 13, 96));
+    border-radius: 7px;
+    font-weight: 700;
+    padding: 10px 15px;
+    height: 160px;
+    width: 600px;
+    margin-left: 34%;
+}
+.client{
+
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+}
+#contact-no{
+    text-align: center;
+    color: rgb(241, 241, 241);
+    background-color: orangered;
+    height: 60px;
+    width: 200px;
+    margin-left: 45%;
+    padding-top: 10px;
+}
+
+#mobile{
+    text-align: center;
+}
+.mbl-no:hover{
+    
+    color: rgb(241, 16, 155);
+    font-size: 30px;
+    font-weight: 100px;
+    
+
+}
+
+
+footer p{
+    text-align: center;
+}
